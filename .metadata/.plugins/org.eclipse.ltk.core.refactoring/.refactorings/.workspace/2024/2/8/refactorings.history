@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;Menu_based_app/Core/Inc/task_handler.h&apos;" deleteContents="false" description="Delete resource &apos;Menu_based_app/Core/Inc/task_handler.h&apos;" element1="/Menu_based_app/Core/Inc/task_handler.h" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1708737137252"/>
+</session>

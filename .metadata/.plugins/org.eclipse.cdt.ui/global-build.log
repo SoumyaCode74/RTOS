@@ -1,0 +1,10 @@
+09:32:28 **** Incremental Build of configuration Debug for project Simulation2 ****
+Info: Internal Builder is used for build
+gcc "-ID:\\Users\\soumy\\GitHub\\RTOS\\Simulator\\Simulation2" "-ID:\\Users\\soumy\\GitHub\\RTOS\\Simulator\\Simulation2\\FreeRTOSv9.0.0\\Source\\portable" "-ID:\\Users\\soumy\\GitHub\\RTOS\\Simulator\\Simulation2\\FreeRTOSv9.0.0\\Source\\include" -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o Simulation2.exe "FreeRTOSv9.0.0\\Source\\croutine.o" "FreeRTOSv9.0.0\\Source\\event_groups.o" "FreeRTOSv9.0.0\\Source\\list.o" "FreeRTOSv9.0.0\\Source\\portable\\MSVC-MingW\\port.o" "FreeRTOSv9.0.0\\Source\\portable\\MemMang\\heap_4.o" "FreeRTOSv9.0.0\\Source\\queue.o" "FreeRTOSv9.0.0\\Source\\tasks.o" "FreeRTOSv9.0.0\\Source\\timers.o" Run-time-stats-utils.o main.o -lwinmm 
+Info: Nothing to build for Simulation2
+09:33:51 **** Incremental Build of configuration Debug for project Simulation2 ****
+Info: Internal Builder is used for build
+gcc "-ID:\\Users\\soumy\\GitHub\\RTOS\\Simulator\\Simulation2" "-ID:\\Users\\soumy\\GitHub\\RTOS\\Simulator\\Simulation2\\FreeRTOSv9.0.0\\Source\\portable" "-ID:\\Users\\soumy\\GitHub\\RTOS\\Simulator\\Simulation2\\FreeRTOSv9.0.0\\Source\\include" -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o Simulation2.exe "FreeRTOSv9.0.0\\Source\\croutine.o" "FreeRTOSv9.0.0\\Source\\event_groups.o" "FreeRTOSv9.0.0\\Source\\list.o" "FreeRTOSv9.0.0\\Source\\portable\\MSVC-MingW\\port.o" "FreeRTOSv9.0.0\\Source\\portable\\MemMang\\heap_4.o" "FreeRTOSv9.0.0\\Source\\queue.o" "FreeRTOSv9.0.0\\Source\\tasks.o" "FreeRTOSv9.0.0\\Source\\timers.o" Run-time-stats-utils.o main.o -lwinmm 
+Info: Nothing to build for Simulation2

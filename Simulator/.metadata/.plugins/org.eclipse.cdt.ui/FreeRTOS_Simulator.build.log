@@ -1,0 +1,5 @@
+21:19:41 **** Clean-only build of configuration Debug for project FreeRTOS_Simulator ****
+rm -rf portable/MemMang/heap_4.d portable/MemMang/heap_4.o src/FreeRTOS_Simulator.o FreeRTOS_Simulator.exe src/FreeRTOS_Simulator.d 
+
+21:19:41 Build Finished (took 498ms)
+

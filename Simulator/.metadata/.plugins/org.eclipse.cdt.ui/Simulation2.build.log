@@ -1,0 +1,6 @@
+08:10:32 **** Clean-only build of configuration Debug for project Simulation2 ****
+rm -rf FreeRTOSv9.0.0/Source/croutine.d FreeRTOSv9.0.0/Source/event_groups.o Run-time-stats-utils.o Run-time-stats-utils.d Simulation2.exe FreeRTOSv9.0.0/Source/event_groups.d FreeRTOSv9.0.0/Source/list.o FreeRTOSv9.0.0/Source/portable/MSVC-MingW/port.o FreeRTOSv9.0.0/Source/portable/MSVC-MingW/port.d FreeRTOSv9.0.0/Source/croutine.o FreeRTOSv9.0.0/Source/queue.o main.o FreeRTOSv9.0.0/Source/queue.d FreeRTOSv9.0.0/Source/portable/MemMang/heap_4.d FreeRTOSv9.0.0/Source/portable/MemMang/heap_4.o main.d FreeRTOSv9.0.0/Source/timers.o FreeRTOSv9.0.0/Source/tasks.d FreeRTOSv9.0.0/Source/list.d FreeRTOSv9.0.0/Source/timers.d FreeRTOSv9.0.0/Source/tasks.o 
+/usr/bin/rm: cannot unlink `Simulation2.exe': Permission denied
+
+08:10:32 Build Finished (took 214ms)
+
